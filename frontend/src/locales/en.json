@@ -1,0 +1,8 @@
+{
+    "welcome": "Welcome to our website!",
+    "description": "This is a description.",
+    "hello": "Hello, %{name}!",
+    "wind_speed": "Wind speed"
+
+  }
+  

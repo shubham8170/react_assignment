@@ -1,0 +1,13 @@
+/* .create_contest{
+    height: 400px;
+    width: 80vw;
+    background-color: white;
+} */
+
+.modal-content{
+    position: absolute;
+}
+
+.create_contest label{
+    font-weight: 800;
+}

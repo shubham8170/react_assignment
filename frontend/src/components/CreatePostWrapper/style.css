@@ -1,0 +1,15 @@
+#preview-container {
+  display: none;
+  width: 100%; 
+  max-width: 300px; 
+  padding-bottom: 56.25%;
+  position: relative;
+}
+
+#preview-video {
+  width: 320px;
+  height: 50%;
+  object-fit: cover;
+  top: 0;
+  left: 0;
+}
